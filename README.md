@@ -1,10 +1,15 @@
 deevad-krita-brushpresets
 =========================
 
-![alt header](http://s3.amazonaws.com/patreon/1253a8f7193f212aa4cb89eec6c1d250.jpg)
-_above : 8 june screenshot_
+![alt header](http://i.imgur.com/TMEDSr4.png)
+_above : 4 jully 2014 screenshot_
 
-Older revision : WIP screenshot at 30 may : [http://i.imgur.com/GqF0Klk.png](http://i.imgur.com/GqF0Klk.png)
+A set of brush, presets, textures, etc... to be used in the digital painting software Krita, [www.krita.org](http://www.krita.org).
+
+## Changelog :
+* 4 jully 2014 : (actual ) Polishing the brushes, improving quality, deleting unused, and create new ones to replace : [screenshot](http://i.imgur.com/TMEDSr4.png)
+* 8 june 2014 : new setup, introducing pattern, textures, and Flow brushes and black&white design : [screenshot](http://s3.amazonaws.com/patreon/1253a8f7193f212aa4cb89eec6c1d250.jpg)
+* 30 may 2014 : experimental all size raw on top : [screenshot](http://i.imgur.com/GqF0Klk.png)
 
 Brush presets to use with the open-source digital painting software Krita.
 The brush are compatible with Krita 2.8 and probably future versions
