@@ -20,6 +20,6 @@ License : CC-0 /public domain.
 
 ##Installation
 
-To install them,  unzip, and paste the three resulting folder ( brushes / paintoppreset and patterns  ) into your Krita user preference directory ( exemple on linux )
+To install them,  unzip, and paste the three resulting folder ( brushes / paintoppreset and patterns  ) into your Krita user preference directory ( example on linux )
 You can also open your preference directory inside Krita : Edit > Ressources > Open Resources Folder , don't forget to restart Krita after
 
