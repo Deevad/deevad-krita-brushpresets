@@ -1,15 +1,15 @@
 deevad-krita-brushpresets
 =========================
 
-![alt header](http://i.imgur.com/TMEDSr4.png)
+![alt header](http://i.imgur.com/LrTcuyB.png)
 
-_above : v5 screenshot_
+_above : v6 screenshot_
 
 A set of brush, presets, textures, etc... to be used in the digital painting software Krita, [www.krita.org](http://www.krita.org).
 
 ## Changelog :
 
-* 17 april 2015 : v6 ready, for 2.9
+* 17 april 2015 : v6 ready, for 2.9 [screenshot](http://i.imgur.com/LrTcuyB.png)
 * 12 january 2015 : full rewrite in progress for 2.9beta
 * 15 august 2014 : a full month happen with daily prod and the kit didn't get changed that much, I guess V5 release is ready by itself. 
 * 4 jully 2014 : Polishing the brushes, improving quality, deleting unused, and create new ones to replace : [screenshot](http://i.imgur.com/TMEDSr4.png)
