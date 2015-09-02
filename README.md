@@ -1,14 +1,15 @@
 deevad-krita-brushpresets
 =========================
 
-![alt header](http://i.imgur.com/LrTcuyB.png)
+![alt header](http://i.imgur.com/dsbfD4k.png)
 
-_above : v6 screenshot_
+_above : v7 screenshot_
 
 A set of brush, presets, textures, etc... to be used in the digital painting software Krita, [www.krita.org](http://www.krita.org).
 
 ## Changelog :
 
+* 2 september 2015 : v7 ready for 2.9.7 [screenshot](http://i.imgur.com/dsbfD4k.png)
 * 17 april 2015 : v6 ready, for 2.9 [screenshot](http://i.imgur.com/LrTcuyB.png)
 * 12 january 2015 : full rewrite in progress for 2.9beta
 * 15 august 2014 : a full month happen with daily prod and the kit didn't get changed that much, I guess V5 release is ready by itself. 
@@ -18,17 +19,16 @@ A set of brush, presets, textures, etc... to be used in the digital painting sof
 
 ## Compatibility :
 
-Brush presets to use with the open-source digital painting software Krita.
-The brush under V6 are compatible with Krita under 2.9: but breaks behavior after 2.9. 
-To fix it's simple but long: remove the 'flow dynamic' preset by preset and overwrite. 
-The brush after V6 are compatible with Krita 2.9 (and hopefully future versions)
+The brush V7 are only compatible with Krita 2.9.x
 
-License : CC-0 /public domain.
+## License : 
+
+CC-0 /public domain.
 
 ##Installation
 
-Brush bundle for version after v6 are available on www.davidrevoy.com , tutorial/ressources category. 
+2 ways :
 
-To install them from this source,  unzip, and paste the three resulting folder ( brushes / paintoppreset and patterns  ) into your Krita user preference directory ( example on linux )
-You can also open your preference directory inside Krita Ressources Manager , don't forget to restart Krita after.
+1. Manual : To install them from this source,  Download, unzip, and paste the three resulting folder ( brushes / paintoppreset and patterns  ) into your Krita user preference directory. You can open your preference directory via the "Resources Manager" interface.
 
+2. Bundle : bundled versions are available on www.davidrevoy.com ( download category ) and can be installed via the 'Resources Manager', but this way is not recommended.
