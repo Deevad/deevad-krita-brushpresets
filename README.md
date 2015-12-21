@@ -31,4 +31,4 @@ CC-0 /public domain.
 
 1. Manual : To install them from this source,  Download, unzip, and paste the three resulting folder ( brushes / paintoppreset and patterns  ) into your Krita user preference directory. You can open your preference directory via the "Resources Manager" interface.
 
-2. Bundle : bundled versions are available on www.davidrevoy.com ( download category ) and can be installed via the 'Resources Manager', but this way is not recommended.
+2. Bundle : bundled versions are available on www.davidrevoy.com ( Blog, 'Download' category , open the article of the latest version of the brushkit ) and can be installed via the 'Resources Manager'.
