@@ -24,7 +24,8 @@ The brush V8 are only compatible with Krita 2.9.x and 3.0
 
 ## License : 
 
-This brushes are licensed under the Creative Commons Attribution 4.0  to "David Revoy, www.davidrevoy.com".
+This brushes are licensed under the [Creative Commons Attribution 4.0 ](https://creativecommons.org/licenses/by/4.0/)
+ to "David Revoy, www.davidrevoy.com".
 
 This attribution is necessary in case of redistributing, commercializing, or modifying the brush kit.
 
