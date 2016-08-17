@@ -9,8 +9,8 @@ A set of brush, presets, textures, etc... to be used in the digital painting sof
 
 ## Changelog :
 
-* 20 mai 2016 : v8.1 ready for 3.0.1alpha [screenshot](http://www.davidrevoy.com/data/images/blog/2016/05/v8-1brush_header.jpg)
-* 20 mai 2016 : v8 ready for 3.0 [screenshot](http://www.davidrevoy.com/data/images/blog/2016/05/v8brush_header_net.jpg)
+* 16 august 2016 : v8.1 ready for 3.0.1alpha [screenshot](http://www.davidrevoy.com/data/images/blog/2016/05/v8-1brush_header.jpg)
+* 20 may 2016 : v8 ready for 3.0 [screenshot](http://www.davidrevoy.com/data/images/blog/2016/05/v8brush_header_net.jpg)
 * 2 september 2015 : v7 ready for 2.9.7 [screenshot](http://i.imgur.com/dsbfD4k.png)
 * 17 april 2015 : v6 ready, for 2.9 [screenshot](http://i.imgur.com/LrTcuyB.png)
 * 12 january 2015 : full rewrite in progress for 2.9beta
