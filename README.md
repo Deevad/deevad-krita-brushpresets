@@ -1,14 +1,15 @@
 deevad-krita-brushpresets
 =========================
 
-![alt header](http://www.davidrevoy.com/data/images/blog/2016/05/v8brush_header_net.jpg)
+![alt header](http://www.davidrevoy.com/data/images/blog/2016/05/v8-1brush_header.jpg)
 
-_above : v8 screenshot_
+_above : v8.1 screenshot_
 
 A set of brush, presets, textures, etc... to be used in the digital painting software Krita, [www.krita.org](http://www.krita.org).
 
 ## Changelog :
 
+* 20 mai 2016 : v8.1 ready for 3.0.1alpha [screenshot](http://www.davidrevoy.com/data/images/blog/2016/05/v8-1brush_header.jpg)
 * 20 mai 2016 : v8 ready for 3.0 [screenshot](http://www.davidrevoy.com/data/images/blog/2016/05/v8brush_header_net.jpg)
 * 2 september 2015 : v7 ready for 2.9.7 [screenshot](http://i.imgur.com/dsbfD4k.png)
 * 17 april 2015 : v6 ready, for 2.9 [screenshot](http://i.imgur.com/LrTcuyB.png)
@@ -20,7 +21,7 @@ A set of brush, presets, textures, etc... to be used in the digital painting sof
 
 ## Compatibility :
 
-The brush V8 are only compatible with Krita 2.9.x and 3.0
+The brush V8.x are only compatible with Krita 2.9.x and 3.0
 
 ## License : 
 
