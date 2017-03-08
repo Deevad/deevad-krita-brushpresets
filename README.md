@@ -9,7 +9,7 @@ A set of brush, presets, textures, etc... to be used in the digital painting sof
 
 ## Changelog :
 
-* 08-03-2017: **v8.2**, Krita 3.1.2 - If it works, don't fix it: 10 brushes added, minor update for 2.  [screenshot](http://www.davidrevoy.com/data/images/blog/2016/05/v8-1brush_header.jpg), [article](http://www.davidrevoy.com/article319/krita-brushkit-v8).
+* 08-03-2017: **v8.2**, Krita 3.1.2 - If it works, don't fix it: 10 brushes added, minor update for 2.  [screenshot](http://www.davidrevoy.com/data/images/blog/2017/02/v82brush_header_net.jpg), [article](http://www.davidrevoy.com/article319/krita-brushkit-v8).
 * 16-08-2016: **v8.1**, Krita 3.0.1 - Adding 13 new brushes. [screenshot](http://www.davidrevoy.com/data/images/blog/2016/05/v8-1brush_header.jpg), [article](http://www.davidrevoy.com/article319/krita-brushkit-v8).
 * 20-05-2016: **v8.0**, Krita 3.0.0 - Refactor thumbnails and core 42 brushes. Use smudge-radius brushes. [screenshot](http://www.davidrevoy.com/data/images/blog/2016/05/v8brush_header_net.jpg), [article](http://www.davidrevoy.com/article319/krita-brushkit-v8).
 * 02-07-2015: **v7.0**, Krita 2.9.7 - Pepper&Carrot stable kit: solidifying previous kit after 10 episodes. [screenshot](http://www.davidrevoy.com/data/images/blog/2015/08/v7-release-artwork_net.jpg), [article](http://www.davidrevoy.com/article264/brushkit-v7-0).
