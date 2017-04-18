@@ -40,7 +40,7 @@ This attribution is not necessary in case of usage (you can paint any artwork yo
 This attribution is not necessary in case of doing screenshot/screenrecording of Krita and have the brushkit visible. 
 
 
-##Installation
+## Installation
 
 2 ways :
 
